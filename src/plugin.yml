@@ -1,0 +1,16 @@
+name: Tag
+main: com.SwearWord.Tag.Tag
+version: 1.0
+commands:
+   jointag:
+      description: Take part in the game.
+      usage: | 
+         /jointag
+   leavetag:
+      description: Quit the game like a loser.
+      usage: | 
+         /leavetag
+   whosit:
+      description: See who's it.
+      usage: | 
+         /leavetag
