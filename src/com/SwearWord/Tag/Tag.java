@@ -57,7 +57,7 @@ public class Tag extends JavaPlugin
 				else p.sendMessage(prefix + PlayerListener.it.getName() + " is it");
 				return true;
 			}
-			p.sendMessage(prefix + "You are already playing");
+			p.sendMessage(prefix + "You are already fucking");
 			return true;
 		}
 		if(label.equalsIgnoreCase("leavetag"))
